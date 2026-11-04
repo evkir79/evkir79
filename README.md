@@ -4,9 +4,11 @@ Cybersecurity student at the University of Bergen, aiming to work in security.
 ### ⏳ What I'm up to
 - Learning about networks, Linux and what makes systems vulnerable
 - Focusing on studies
-- Wondering if AI will take my job before I get one
+- Wireshark
+- Virtual machines
 
-### 🛠️ Tools & languages
+
+### 🛠️ Programming languages
 - Python
 - HTML
 - CSS
