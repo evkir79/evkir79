@@ -1,5 +1,5 @@
-## Hello you!
-Cybersecurity student at the University of Bergen, aiming to work in security.
+## Hello world!
+I am a cybersecurity student at the University of Bergen, aiming to work in security.
 
 ### ⏳ What I'm up to
 - Learning about networks, Linux and what makes systems vulnerable
