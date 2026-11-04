@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello you!
+Cybersecurity student at the University of Bergen, aiming to work in security.
 
-<!--
-**evkir79/evkir79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⏳ What I'm up to
+- Learning about networks, Linux and what makes systems vulnerable
+- Focusing on studies
+- Wondering if AI will take my job before I get one
 
-Here are some ideas to get you started:
+### 🛠️ Tools & languages
+- Python
+- HTML
+- CSS
+- JavaScript
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in touch
+Don't be shy to contact me if you'd like to keep in touch, my mail is in the bio!
