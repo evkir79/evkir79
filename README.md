@@ -13,7 +13,6 @@ I am a cybersecurity student at the University of Bergen, aiming to work in secu
 - HTML
 - CSS
 - JavaScript
-- Java
 
 ### 📫 Get in touch
 Don't be shy to contact me if you'd like to keep in touch, my mail is in the bio!
